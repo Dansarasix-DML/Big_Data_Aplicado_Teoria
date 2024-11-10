@@ -4,7 +4,7 @@
 
 |Contenido|Criterios de Evaluación|
 |--|--|
-|*Diseño y Construcción de Soluciones*| RA5075.1a - Se ha caracterizado el proceso de diseño y construcción de soluciones en sistemas de almacenamiento de datos. &nbsp; RA5075.2a - Se ha determinado la importancia de los sistemas de almacenamiento para depositar y procesar grandes cantidades de cualquier tipo de datos rápidamente.|
+|*Diseño y Construcción de Soluciones*| RA5075.1a - Se ha caracterizado el proceso de diseño y construcción de soluciones en sistemas de almacenamiento de datos. RA5075.2a - Se ha determinado la importancia de los sistemas de almacenamiento para depositar y procesar grandes cantidades de cualquier tipo de datos rápidamente.|
 |*Procedimientos y Mecanismos de Ingesta de Datos*|RA5075.1b - Se han determinado los procedimientos y mecanismos para la ingestión de datos.|
 |*Formato de Datos Adecuado para el Almacenamiento*|RA5075.1c - Se ha determinado el formato de datos adecuado para el almacenamiento.|
 ---
@@ -99,10 +99,12 @@ Generar, almacenar y procesar todos estos datos no es una tarea trivial, y plant
 
 En este sentido, la **computación distribuida**, en donde múltiples máquinas realizan el procesamiento optimizando el rendimiento o la **computación en la nube**, que permite adquirir recursos de procesamiento al igual que se puede adquirir espacio de almacenamiento, son dos soluciones al problema del procesamiento.
 
-Otras alternativas son la **programación paralela** y la **programación multi-procesador**, que permiten, respectivamente, aprovechar el paralelismo de múltiples hilos de ejecución dentro de un procesador y realizar el procesamiento dividiéndolo en múltiples hilos en diferentes procesadores
+Otras alternativas son la **programación paralela** y la **programación multi-procesador**, que permiten, respectivamente, aprovechar el paralelismo de múltiples hilos de ejecución dentro de un procesador y realizar el procesamiento dividiéndolo en múltiples hilos en diferentes procesadores.
 
+---
 |***Pregunta: Piensa en procesos cotidianos que requieran un procesamiento on-line y en otros que requieran un procesamiento off-line.***|
 |--|
+---
 
 ⏳ La proliferación de sensores asequibles y de alto rendimiento ha generado un aumento exponencial en la cantidad de datos disponibles, permitiendo monitorizar casi cualquier proceso, desde el consumo eléctrico doméstico hasta la actividad física. Aunque la tecnología ha avanzado significativamente, la generación de datos sigue superándola, lo que plantea un reto continuo. Para enfrentar este desafío, la **tecnología** evoluciona tanto en **hardware**, con arquitecturas de mayor capacidad de procesamiento y almacenamiento, como en **software**, mediante modelos que optimizan el manejo de los datos.
 
